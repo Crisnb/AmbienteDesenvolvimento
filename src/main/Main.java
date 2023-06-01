@@ -7,6 +7,5 @@ public class Main{
         System.out.println("TESTE COMMIT");
 
         System.out.println("teste extra de commit");
-        System.out.println("teste www");
     }
 }
